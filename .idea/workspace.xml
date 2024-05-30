@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd5fda94-8fe2-4369-a526-020fc82aaaba" name="Changes" comment="- Media final aluno aprovado ou reprovado&#10;- Imprimir impar ou par.&#10;- formula de bascara calcular e impossivel calcular">
-      <change afterPath="$PROJECT_DIR$/src/menorNumero.java" afterDir="false" />
+    <list default="true" id="bd5fda94-8fe2-4369-a526-020fc82aaaba" name="Changes" comment="- Media final aluno aprovado ou reprovado&#10;- Imprimir impar ou par.&#10;- formula de bascara calcular e impossivel calcular&#10;_ Leo qual é o menor numero;">
+      <change afterPath="$PROJECT_DIR$/src/impostoRenda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,9 @@
   "keyToString": {
     "Application.formulaBascara.executor": "Run",
     "Application.imparOuPar.executor": "Run",
+    "Application.impostoRenda.executor": "Run",
     "Application.main.executor": "Run",
+    "Application.menorNumero.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
@@ -87,13 +89,22 @@
       <option name="project" value="LOCAL" />
       <updated>1717081542121</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="- Media final aluno aprovado ou reprovado&#10;- Imprimir impar ou par.&#10;- formula de bascara calcular e impossivel calcular&#10;_ Leo qual é o menor numero;">
+      <option name="closed" value="true" />
+      <created>1717082700233</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717082700233</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gerar nota final de aluno aprovado ou reprovado." />
     <MESSAGE value="Imprimir impar ou par." />
     <MESSAGE value="- Media final aluno aprovado ou reprovado&#10;- Imprimir impar ou par.&#10;- formula de bascara calcular e impossivel calcular" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Media final aluno aprovado ou reprovado&#10;- Imprimir impar ou par.&#10;- formula de bascara calcular e impossivel calcular" />
+    <MESSAGE value="- Media final aluno aprovado ou reprovado&#10;- Imprimir impar ou par.&#10;- formula de bascara calcular e impossivel calcular&#10;_ Leo qual é o menor numero;" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Media final aluno aprovado ou reprovado&#10;- Imprimir impar ou par.&#10;- formula de bascara calcular e impossivel calcular&#10;_ Leo qual é o menor numero;" />
   </component>
 </project>
