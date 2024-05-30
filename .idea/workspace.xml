@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd5fda94-8fe2-4369-a526-020fc82aaaba" name="Changes" comment="gerar nota final de aluno aprovado ou reprovado.">
-      <change afterPath="$PROJECT_DIR$/src/imparOuPar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mediaFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mediaFinal.java" afterDir="false" />
+    <list default="true" id="bd5fda94-8fe2-4369-a526-020fc82aaaba" name="Changes" comment="Imprimir impar ou par.">
+      <change afterPath="$PROJECT_DIR$/src/formulaBascara.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.formulaBascara.executor": "Run",
     "Application.imparOuPar.executor": "Run",
     "Application.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -70,11 +71,20 @@
       <option name="project" value="LOCAL" />
       <updated>1717079241700</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Imprimir impar ou par.">
+      <option name="closed" value="true" />
+      <created>1717079777568</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717079777568</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gerar nota final de aluno aprovado ou reprovado." />
-    <option name="LAST_COMMIT_MESSAGE" value="gerar nota final de aluno aprovado ou reprovado." />
+    <MESSAGE value="Imprimir impar ou par." />
+    <option name="LAST_COMMIT_MESSAGE" value="Imprimir impar ou par." />
   </component>
 </project>
