@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd5fda94-8fe2-4369-a526-020fc82aaaba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturaCondicional.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mediaFinal.java" afterDir="false" />
+    <list default="true" id="bd5fda94-8fe2-4369-a526-020fc82aaaba" name="Changes" comment="gerar nota final de aluno aprovado ou reprovado.">
+      <change afterPath="$PROJECT_DIR$/src/imparOuPar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mediaFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mediaFinal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Emersons93"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Emersons93/estruturaCondicional.git",
+    "accountId": "bf8e2a86-76ff-4b18-a189-c80bc2d00c49"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -39,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.imparOuPar.executor": "Run",
     "Application.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -54,6 +62,19 @@
       <option name="presentableId" value="Default" />
       <updated>1717078124810</updated>
     </task>
+    <task id="LOCAL-00001" summary="gerar nota final de aluno aprovado ou reprovado.">
+      <option name="closed" value="true" />
+      <created>1717079241700</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717079241700</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gerar nota final de aluno aprovado ou reprovado." />
+    <option name="LAST_COMMIT_MESSAGE" value="gerar nota final de aluno aprovado ou reprovado." />
   </component>
 </project>

@@ -14,8 +14,7 @@ public class mediaFinal {
 
         if (notaFinal < 60.0) {
             System.out.println("NÃO PASSOU JUMENTO");
-        }
-        else if (notaFinal > 60.0) {
+        } else if (notaFinal > 60.0) {
             System.out.println("DEU SORTE PASSOU RASPANDO");
         }
 
